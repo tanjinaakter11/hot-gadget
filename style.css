@@ -1,5 +1,6 @@
-.bd-highlight{ 
+.nav-link{ 
     color: gray;
+    text-decoration: none;
 }
 .buy-now-button{ 
     background-color: black;
@@ -11,4 +12,39 @@
 }
 p{ 
     color: gray;
+}
+.bl-highlight{ 
+    color: black;
+}
+.high-light{ 
+    color: red;
+}
+.card{ 
+    border: none;
+    border-radius: 10px;
+    box-shadow:0px 0px 15px gray;
+}
+.card-footer{ 
+    background-color: white;
+    border-top: none;
+}
+h2{ 
+    text-align: center;
+}
+.card img{ 
+    width:100%
+}
+h1{ 
+    margin-top: 100px;
+}
+.cat1{ 
+   box-shadow: gray;
+}
+.categories img{
+    width: 50px;
+}.cat1{ 
+    box-shadow: 2px 2px 10px lightgray;
+}
+.hand{ 
+    float: left;
 }
